@@ -1,2 +1,6 @@
-# mechacar-statistical-analysis
-DABC Module 15 - statistical analysis of production data for the mechcar using R
+# Statistical Analysis of MechaCar Data Using R
+## Project Overview
+## Linear Regression to Predict MPG
+## Summary Statistics on Suspension Coils
+## T-Tests on Suspension Coils
+## Study Design: MechaCar vs Competition
